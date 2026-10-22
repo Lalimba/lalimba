@@ -94,24 +94,127 @@ im Homeoffice.
 **Interessengebiete:** Trading-Systeme, FinTech, Python-Entwicklung, Linux-Administration, Backend-Entwicklung und technische Plattformbetreuung.
 
 ---
-## 🖥️ Engineering Project Gallery
 
-### 1. OSCE Gold Intelligence Terminal
-![OSCE Gold Intelligence Terminal](osce-gold-terminal.png)
+## 🖥️ Engineering Project Portfolio
 
-### 2. BTC & Gold Trading Course
-![BTC and Gold Trading Course](btc-gold-trading-course.png)
+Selected projects combining financial market technology, software development, Linux infrastructure, and real-time communication.
 
-### 3. OSCE Intelligent Canvas
-![OSCE Intelligent Canvas](osce-intelligent-canvas.png)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 4. OSCE LiveKit Classroom
-![OSCE LiveKit Classroom](osce-livekit.png)
+### 🥇 OSCE Gold Intelligence Terminal
 
-### 5. OSCE Rocket.Chat Community
-![OSCE Rocket.Chat](osce-rocketchat.png)
+<img src="osce-gold-terminal.png" width="100%" alt="OSCE Gold Intelligence Terminal">
 
-### 6. TradingView CME & DXY Indicators
-![TradingView Technical Indicators](osce-tradingview-indicators.png)
+**Self-hosted market intelligence platform**
+
+- Gold futures and spot market analysis
+- Custom directional and confidence scoring
+- Macro monitoring: DXY, US10Y, VIX, Oil
+- Real-time dashboard and backend integration
+
+**Focus:** Trading Systems · Linux · Market Data
+
+[View Platform](https://osce-obsession-trading-academy.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Obsession Flow Terminal V2
+
+<img src="btc-gold-trading-course.png" width="100%" alt="Obsession Flow Terminal V2">
+
+**Multi-asset trading dashboard**
+
+- Gold, BTC, ETH and cryptocurrency monitoring
+- Interactive TradingView chart integration
+- Funding, Open Interest and macro dashboards
+- Market news and trading education tools
+
+**Focus:** Frontend · APIs · Financial Data
+
+[Live Demo](https://lalimba.github.io/obsession-terminal/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 OSCE Intelligent Canvas
+
+<img src="osce-intelligent-canvas.png" width="100%" alt="OSCE Intelligent Canvas">
+
+**Trading analysis and research application**
+
+- Chart analysis and research workflows
+- Trading strategy exploration
+- Market structure interpretation
+- AI-assisted analytical functionality
+
+**Focus:** Trading Research · Software Integration
+
+</td>
+<td width="50%" valign="top">
+
+### 🎥 OSCE LiveKit Classroom
+
+<img src="osce-livekit.png" width="100%" alt="OSCE LiveKit Classroom">
+
+**Self-hosted real-time classroom**
+
+- LiveKit and WebRTC communication
+- Instructor-controlled participation
+- Participant authentication and permissions
+- Browser-based video and audio
+
+**Focus:** WebRTC · Backend · Linux
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 OSCE Rocket.Chat
+
+<img src="osce-rocketchat.png" width="100%" alt="OSCE Rocket.Chat">
+
+**Self-hosted collaboration infrastructure**
+
+- Community messaging and discussions
+- User access management
+- Persistent messaging services
+- Integration with academy infrastructure
+
+**Focus:** DevOps · Docker · Networking
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 TradingView CME & DXY Indicators
+
+<img src="osce-tradingview-indicators.png" width="100%" alt="TradingView Indicators">
+
+**Custom technical analysis tools**
+
+- Pine Script indicator development
+- Custom CME-derived energy calculations
+- DXY and multi-timeframe confirmation
+- Market structure and signal scoring
+
+**Focus:** Pine Script · Market Analysis
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🇩🇪 Professional Opportunities
+
+**Available for part-time employment (20–25 hours/week)** in trading technology, Python development, financial software engineering, or Linux infrastructure.
+
+**Location:** Stuttgart Region · Baden-Württemberg · Remote Germany
+
 
 *Engineering projects focused on practical solutions, continuous learning, and reliable software infrastructure.*
