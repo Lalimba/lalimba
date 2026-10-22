@@ -88,10 +88,30 @@ Softwareentwicklung und Linux-Systemadministration mit Schwerpunkt auf Finanzmar
 
 Praktische Erfahrung in der Entwicklung und Integration von Trading-Dashboards, Analysewerkzeugen, Backend-Diensten und Kommunikationsplattformen.
 
-**Gesucht:** Teilzeitbeschäftigung mit 20–25 Stunden pro Woche im Raum Stuttgart, in Baden-Württemberg oder deutschlandweit im Homeoffice.
+**Gesucht:** Teilzeitbeschäftigung mit 20–25 Stunden pro Woche im Raum Stuttgart, in Baden-Württemberg oder deutschlandweit 
+im Homeoffice.
 
 **Interessengebiete:** Trading-Systeme, FinTech, Python-Entwicklung, Linux-Administration, Backend-Entwicklung und technische Plattformbetreuung.
 
 ---
+## 🖥️ Engineering Project Gallery
+
+### 1. OSCE Gold Intelligence Terminal
+![OSCE Gold Intelligence Terminal](osce-gold-terminal.png)
+
+### 2. BTC & Gold Trading Course
+![BTC and Gold Trading Course](btc-gold-trading-course.png)
+
+### 3. OSCE Intelligent Canvas
+![OSCE Intelligent Canvas](osce-intelligent-canvas.png)
+
+### 4. OSCE LiveKit Classroom
+![OSCE LiveKit Classroom](osce-livekit.png)
+
+### 5. OSCE Rocket.Chat Community
+![OSCE Rocket.Chat](osce-rocketchat.png)
+
+### 6. TradingView CME & DXY Indicators
+![TradingView Technical Indicators](osce-tradingview-indicators.png)
 
 *Engineering projects focused on practical solutions, continuous learning, and reliable software infrastructure.*
