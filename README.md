@@ -217,4 +217,32 @@ Selected projects combining financial market technology, software development, L
 **Location:** Stuttgart Region · Baden-Württemberg · Remote Germany
 
 
+
+## 🛠️ Skills & Technologies
+
+**Programming & Development**
+- Python, Java, C++, JavaScript, HTML5, CSS3
+- Backend development and REST API integration
+- Financial data processing and automation
+- TradingView Pine Script
+
+**Linux & Infrastructure**
+- Ubuntu Linux server administration
+- Nginx, Docker, PostgreSQL
+- Cloudflare, DNS, HTTPS and networking
+- Git, GitHub and CI/CD workflows
+
+**Real-Time Communication**
+- LiveKit, WebRTC and WebSocket
+- Rocket.Chat and self-hosted communication systems
+- Authentication, authorization and access management
+
+**Financial Technology**
+- Trading systems and research applications
+- Gold, Bitcoin and cryptocurrency market analysis
+- Market structure, order flow and liquidity analysis
+- Multi-timeframe analysis and technical indicators
+- Real-time dashboards and signal engines
+  
+
 *Engineering projects focused on practical solutions, continuous learning, and reliable software infrastructure.*
